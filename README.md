@@ -59,7 +59,7 @@ Sistema de linha de comando desenvolvido em *Java* com persistência em banco de
 
 ### Principais tabelas:
 - `cliente`
-- `pacote`
+- `pacote_viagem`
 - `pedido`
 - `servico`
 - `pedido_servico` (tabela de associação)
